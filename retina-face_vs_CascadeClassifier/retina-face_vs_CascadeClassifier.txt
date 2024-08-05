@@ -1,0 +1,3 @@
+retina-face_vs_CascadeClassifier
+We can see that retina-face performed much better than CascadeClassifier.
+Most importantly, those run on CPU in fairly reasonable time
